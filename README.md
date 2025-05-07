@@ -27,7 +27,7 @@ Implement Greedy search algorithm for any of the following application:
 
 **Assihnment-4**
 
-Develop an elementary catboat for any suitable customer interaction application.
+Develop an elementary chatbot for any suitable customer interaction application.
 
 ## Group C
 
